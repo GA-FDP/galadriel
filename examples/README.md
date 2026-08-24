@@ -1,3 +1,6 @@
+# TODO : example.py has multiple capabilities within it that should become their own individual scripts
+## TODO: the imports in example.py likely now break with the new directory structure (test it)
+
 ### Usage
 
 1. Create a test database using `database_utils/create_database 'test_db'`, assuming the MongoDB service is setup and running on your desired server.
